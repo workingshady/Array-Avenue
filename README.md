@@ -17,7 +17,12 @@ The notebook is structured in a way that allows for continuous learning, with da
   - Indexing
   - Slicing
 
-In today's revision, I've covered the basics of creating arrays, along with indexing and slicing techniques in NumPy.
+### [26/12/2023] - Day 2
+
+- **Topics Covered:**
+  - continue Creating Arrays
+  - Data Type
+  - Copy & view
 
 ## Usage
 This repository is  for personal learning documentation 
