@@ -24,7 +24,7 @@ The notebook is structured in a way that allows for continuous learning, with da
   - Data Type
   - Copy & view
 
-### [28/12/2023] - Day 2
+### [28/12/2023] - Day 3
 
 - **Topics Covered:**
   - continue Reshape
